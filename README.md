@@ -9,7 +9,7 @@
 
 #### Description:
 
-###### This is Jonathan Dinu's "Cheaper Bed's, Better Breakfasts' project from his "Data Science Fundamentals" series on Safaribooksonline.com.
+###### This is from Jonathan Dinu's "Cheaper Beds, Better Breakfasts' project from his "Data Science Fundamentals" series on Safaribooksonline.com.
 
 #### Define the problem: 
 
