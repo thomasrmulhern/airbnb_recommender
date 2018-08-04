@@ -137,7 +137,7 @@ def recommend_listings(counts, user_listings, num=10):
     return counts.most_common(num)
 
 if __name__ == '__main__':
-    want_web_pages_displayed, filename, user_id = sys.argv[1:]
+    filename, user_id, want_web_pages_displayed = sys.argv[1:]
 
     # Open and parse CSV file
     csvfile = open(filename, newline='')
