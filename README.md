@@ -13,7 +13,7 @@
 
 #### Define the problem: 
 
-###### Recommend contextually relevant listings to users
+###### Aid users in their discovery of relevant listings
 
 #### Acquire data: 
 
