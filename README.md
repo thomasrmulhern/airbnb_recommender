@@ -1,7 +1,7 @@
 # airbnb_recommender
 ### INPUT: 
 
-###### csv_filename_with_airbnb_user_reviews (csv), user_id_for_which_to_gather_recommendations (string of ints), want_web_pages_displayed (yes/no)
+###### csv_filename_with_airbnb_user_reviews (csv), user_id_for_which_to_gather_recommendations (string of ints), do_you_want_the_web_pages_displayed (yes/no)
 
 ### OUTPUT: 
 
